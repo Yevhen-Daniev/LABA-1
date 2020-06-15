@@ -1,0 +1,16 @@
+{
+  "name": "lb1",
+  "version": "1.0.0",
+  "main": "bulls.js",
+  "scripts": {
+    "start": "node bullsAndCows"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
